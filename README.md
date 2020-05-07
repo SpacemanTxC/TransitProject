@@ -1,7 +1,7 @@
 # Transit Project 
 
-Transit Project is a java based application used to create a schudle for a fake train. The project can be found on CodeAcademy.
-CodeAcadmey has been a platform I have used to pratice learning code such as java. If you have any questions please contact me with the information listed below.
+Transit Project is a java based application used to create a schudle for a fake train. The project can be found on Codecademy.
+Codecademy has been a platform I have used to pratice learning code such as java. If you have any questions please contact me with the information listed below.
 
 *Program Inprogress*
 <br/>
