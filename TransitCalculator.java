@@ -12,9 +12,14 @@ public class TransitCalculator{
     numberOfPeople = numnerOfPeople++;
   }
 
+  //method to check unlimited price
+  public double unlimited7Price(){
+
+  }
+
   //main
   public static void main(String[] args){
     String[] rideOption = {"Pay-per-ride","7-day Unlimited Rides", "30-day Unlimited Rides" };
-
+    double[] price = {2.75, 33, 127};
   }
 }
